@@ -2,6 +2,7 @@ pipeline {
     agent any
     environment {
         dotnet ='C:\\Program Files (x86)\\dotnet\\'
+        homepath = 
     }
     stages{
  
@@ -13,7 +14,7 @@ pipeline {
     stage('Restore'){
         steps{
             echo 'restore'
-            dotnetRestore()
+            bat "dotnet restore"
         }
      
     }      
