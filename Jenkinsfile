@@ -13,14 +13,14 @@ pipeline {
     stage('Restore'){
         steps{
             echo 'restore'
-            sh 'dotnet restore'
+            dotnet restore
         }
      
     }      
     stage('Clean'){
         steps{
             echo 'clean'
-            sh 'dotnet clean'
+            dotnet clean
         }
 
     }
