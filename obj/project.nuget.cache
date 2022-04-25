@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "EOZEhx85AD5F6QQXflLWTohPeWBqzbZ1dVzF3JnKwdtRtdX+T7jZupHalAa/ZVBGLFN5mlldapqEITbR0DHFhg==",
+  "success": true,
+  "projectFilePath": "D:\\azure_project\\nick-app\\be-test\\be-test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\304-aiap\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\304-aiap\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\304-aiap\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\304-aiap\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\304-aiap\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\304-aiap\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

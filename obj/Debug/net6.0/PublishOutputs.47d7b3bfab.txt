@@ -1,0 +1,11 @@
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\be-test.exe
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\appsettings.Development.json
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\appsettings.json
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\be-test.dll
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\be-test.deps.json
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\be-test.runtimeconfig.json
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\be-test.pdb
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\azure_project\be-test\be-test\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
