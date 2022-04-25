@@ -5,11 +5,11 @@ pipeline {
     }
     stages{
  
-    stage('Checkout') {
-        steps {
-        git credentialsId: 'sarunm', url: 'https://github.com/sarunm/nick-be.git', branch: 'main'
-        }
-    }
+    // stage('Checkout') {
+    //     steps {
+    //     git credentialsId: 'sarunm', url: 'https://github.com/sarunm/nick-be.git', branch: 'main'
+    //     }
+    // }
     stage('Restore'){
         steps{
             echo 'restore'
